@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+lib/
+lib64/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Environments
+.env
+.venv
+venv/
+
+# Temporary files
+*.tmp
+
+# Logs
+*.log
